@@ -1,0 +1,14 @@
+{
+  "name": "chat-nodejs-service",
+  "version": "1.0.0",
+  "description": "Chat server service",
+  "author": "Dogus Tunga ATASOY",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "express-ws": "^3.0.0",
+    "npm": "^6.3.0",
+    "websql": "^0.4.4"
+  }
+}
